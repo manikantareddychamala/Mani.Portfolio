@@ -1,16 +1,17 @@
 # Data scientist (Portofolio) 
 <img src="![WhatsApp Image 2023-07-07 at 10 32 58 AM (2)](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/18f3bec3-7f07-4adc-8433-6235429d4e14)" width="200" height="200">
-#Technical skills : 
+
+# *Technical skills : 
 python , clanguage, Data structures , SQLData base , operating system
 
-# EDUCATION
+# EDUCATION:
 B.Tech - 8.2/10.0    Year: 2020 - 2024
 
 10th class - 9.7/10.0    Year: 2018
 
 12th class - 8.5/10      Year: 2020
 
-# projects
+# *projects:
 # 1.Real estate prices using linear regression and support vector machine in machine learning
 
 
