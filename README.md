@@ -25,7 +25,10 @@ SVMs are a type of supervised learning algorithm that can be used for both class
 In regression, SVM tries to find a hyperplane that best separates the data into different classes while maximizing the margin (distance) between the hyperplane and the data points.
 In real estate, SVM regression can be used similarly to linear regression to predict house prices based on various features.
 
-# 2.Movie recommended system in Datascience using machine learning
+# 2.Movie recommended system in Datascience using machine learning:
+[
+![image](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/cde56b55-7bfb-4af5-b57a-1a318c3d011a)
+](url)
 # Collaborative Filtering: 
 This approach recommends movies based on the preferences of similar users or items. You can use techniques like user-based collaborative filtering or item-based collaborative filtering.
 # Content-Based Filtering: 
