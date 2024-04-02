@@ -32,6 +32,10 @@ In real estate, SVM regression can be used similarly to linear regression to pre
 # Collaborative Filtering: 
 This approach recommends movies based on the preferences of similar users or items. You can use techniques like user-based collaborative filtering or item-based collaborative filtering.
 # Content-Based Filtering: 
+
+[
+![image](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/71ecfa8d-3872-4a28-9076-97a685af4b7f)
+](url)
 This approach recommends movies based on the similarity between the attributes of movies and the user's preferences. Features like movie genres, actors, directors, etc., are used to 
 # compute similarity scores.
 Hybrid Methods: Combine collaborative filtering and content-based filtering to improve recommendation quality.
