@@ -1,6 +1,6 @@
 # Protofolio 
 
-  ![WhatsApp Image 2023-07-07 at 10 32 58 AM (2)](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/18f3bec3-7f07-4adc-8433-6235429d4e14)
+![WhatsApp Image 2023-07-07 at 10 32 58 AM (2)](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/18f3bec3-7f07-4adc-8433-6235429d4e14)
 
 # Technical skills : 
 python , clanguage, Data structures , SQLData base , operating system
