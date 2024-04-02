@@ -13,6 +13,9 @@ B.Tech - 8.2/10.0    Year: 2020 - 2024
 
 # *projects:
 # 1.Real estate prices using linear regression and support vector machine in machine learning
+[
+![image](https://github.com/manikantareddychamala/Mani.Portfolio/assets/162694056/30409967-6e14-4c70-9e2a-3d4ddb46de07)
+](url)
 
 
 # Linear Regression:
