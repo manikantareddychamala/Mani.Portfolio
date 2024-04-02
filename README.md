@@ -1,4 +1,4 @@
-# Protofolio
+# Protofolios
 # Technical skills : 
 python , clanguage, Data structures , SQLData base , operating system
 
