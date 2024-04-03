@@ -47,6 +47,13 @@ This approach recommends movies based on the similarity between the attributes o
 # compute similarity scores.
 Hybrid Methods: Combine collaborative filtering and content-based filtering to improve recommendation quality.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/manikanta reddy chamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta reddy chamala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manikantareddychamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikantareddychamala" height="30" width="40" /></a>
+<a href="https://instagram.com/__mani__117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__mani__117" height="30" width="40" /></a>
+</p>
+
 
 
 
