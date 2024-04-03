@@ -40,7 +40,7 @@ SVMs are a type of supervised learning algorithm that can be used for both class
 In regression, SVM tries to find a hyperplane that best separates the data into different classes while maximizing the margin (distance) between the hyperplane and the data points.
 In real estate, SVM regression can be used similarly to linear regression to predict house prices based on various features.
 
--🔭 I’m currently working on [predecting real estate prices using linear regression and support vector machine in machine learning](https://github.com/manikantareddychamala/New-one)
+-🔭 project Github is:- [predecting real estate prices using linear regression and support vector machine in machine learning](https://github.com/manikantareddychamala/New-one)
 
 
 # 2.Movie recommended system in Datascience using machine learning:
@@ -60,8 +60,7 @@ This approach recommends movies based on the similarity between the attributes o
 # compute similarity scores.
 Hybrid Methods: Combine collaborative filtering and content-based filtering to improve recommendation quality.
 
--🔭 I’m currently working on [predecting real estate prices using linear regression and support vector machine in machine learning](https://github.com/manikantareddychamala/New-one)
-
+-🔭 Project Github is:- https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
