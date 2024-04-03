@@ -12,6 +12,15 @@ B.Tech - 8.2/10.0    Year: 2020 - 2024
 
 12th class - 8.5/10      Year: 2020
 
+ 🔭 I’m currently working on [predecting real estate prices using linear regression and support vector machine in machine learning](https://github.com/manikantareddychamala/New-one)
+
+- 🌱 I’m currently learning **Datascience**
+
+- 👨‍💻 All of my projects are available at [https://github.com/manikantareddychamala/New-one](https://github.com/manikantareddychamala/New-one)
+
+- 📫 How to reach me **cr282@srmist.edu.in and manikantareddychamala@gmail.com**
+
+
 # *projects:
 
 # 1.Real estate prices using linear regression and support vector machine in machine learning
