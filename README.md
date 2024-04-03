@@ -14,7 +14,7 @@ B.Tech - 8.2/10.0    Year: 2020 - 2024
 
  -🔭 I’m currently working on [predecting real estate prices using linear regression and support vector machine in machine learning](https://github.com/manikantareddychamala/New-one)
 
-- 🌱 I’m currently learning **Datascience**
+- 🌱 I’m currently learning **Machine learning in Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manikantareddychamala/New-one](https://github.com/manikantareddychamala/New-one)
 
