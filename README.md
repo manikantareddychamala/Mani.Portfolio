@@ -60,6 +60,8 @@ This approach recommends movies based on the preferences of similar users or ite
 This approach recommends movies based on the similarity between the attributes of movies and the user's preferences. Features like movie genres, actors, directors, etc., are used to 
 # compute similarity scores.
 Hybrid Methods: Combine collaborative filtering and content-based filtering to improve recommendation quality.
+# source code:
+https://colab.research.google.com/github/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-/blob/main/Recommender%20Systems%20with%20Python.ipynb
 
 -🔭 Project Github is:- https://github.com/manikantareddychamala/MOVIE-RECOMMENDER-SYSTEM-IN-DATA-SCIENCE-ML-
 
